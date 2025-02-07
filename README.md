@@ -26,7 +26,7 @@ Statistical Findings
 No significant difference in bike rentals between weekdays and weekends.
 ANOVA test confirmed that weather conditions significantly affect rental demand.
 Seasonality affects demand: The rental count varies significantly across seasons.
-Recommendations:
+3) Recommendations:
 Increase bike availability in peak seasons like summer and fall.
 Introduce discounts during low-demand seasons (winter) to boost ridership.
 Weather-based pricing strategies: Offer discounts on humid or rainy days to maintain usage.
